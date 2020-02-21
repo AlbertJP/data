@@ -5225,6 +5225,9 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 535318,,,,mastercard,,credit,,AU,COMMONWEALTH BANK OF AUSTRALIA,,,61132221,
 535319,,,,mastercard,,credit,,AU,COMMONWEALTH BANK OF AUSTRALIA,,,61131576,
 535450,,,,mastercard,,debit,,US,,,,,
+535584,,,,mastercard,,debit,,DE,N26 Bank GmbH,,,,
+53558471,53558472,,,mastercard,,debit,,NL,N26 Bank GmhH,,,,
+53564000,,,,mastercard,,debit,,NL,TransferWise Europe SA/NV,,,,
 535875,,,,mastercard,,credit,,US,,,,,
 535953,,,,mastercard,,debit,,PL,SKRILL,,,,
 536116,,,,mastercard,,debit,,US,,,,,
@@ -5804,3 +5807,6 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 655066,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 659524,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 670686,,,,mastercard,Maestro,debit,,DE,Fidor Bank AG,,www.fidor.de,+49116116,München
+671180,,,,mastercard,Maestro,debit,,DE,N26 Bank GmbH,,,,
+67118085,,,,mastercard,Maestro,debit,,NL,N26 Bank GmbH,,,,
+67118088,,,,mastercard,Maestro,debit,,NL,N26 Bank GmbH,,,,
